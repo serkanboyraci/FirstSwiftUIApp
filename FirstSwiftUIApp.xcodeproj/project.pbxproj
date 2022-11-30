@@ -13,6 +13,7 @@
 		608896172936A50600615C0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 608896162936A50600615C0A /* Preview Assets.xcassets */; };
 		6088961E2937763800615C0A /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6088961D2937763800615C0A /* SecondView.swift */; };
 		6088962029377CD600615C0A /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6088961F29377CD600615C0A /* ThirdView.swift */; };
+		60889622293782EB00615C0A /* FourthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60889621293782EB00615C0A /* FourthView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		608896162936A50600615C0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6088961D2937763800615C0A /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		6088961F29377CD600615C0A /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		60889621293782EB00615C0A /* FourthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				6088960F2936A50500615C0A /* FirstSwiftUIAppApp.swift */,
 				6088961D2937763800615C0A /* SecondView.swift */,
 				6088961F29377CD600615C0A /* ThirdView.swift */,
+				60889621293782EB00615C0A /* FourthView.swift */,
 				608896112936A50500615C0A /* ContentView.swift */,
 				608896132936A50600615C0A /* Assets.xcassets */,
 				608896152936A50600615C0A /* Preview Content */,
@@ -147,6 +150,7 @@
 				6088961E2937763800615C0A /* SecondView.swift in Sources */,
 				608896122936A50500615C0A /* ContentView.swift in Sources */,
 				608896102936A50500615C0A /* FirstSwiftUIAppApp.swift in Sources */,
+				60889622293782EB00615C0A /* FourthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
