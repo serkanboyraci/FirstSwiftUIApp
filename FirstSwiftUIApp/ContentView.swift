@@ -9,13 +9,24 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        
+        VStack { // Vertical stack to use up and down
+            // HStack to use left and right
+            // ZSatack to use in Z position.
+            Text("BOYRACI")
+                .padding(.all)
+          
+            Text("Hello, SERKAN")
+                .font(.callout)
+                .foregroundColor(Color.green)
+                .padding(.top)
+                 // to add some options like font, color etc. put "." and explore
+            // or you can select from right corner Inspector column
+         
+            
         }
-        .padding()
+        
+   
     }
 }
 
