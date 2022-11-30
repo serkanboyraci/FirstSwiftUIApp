@@ -12,7 +12,7 @@ struct ContentView: View {
         
         VStack { // Vertical stack to use up and down
             // HStack to use left and right
-            // ZSatack to use in Z position.
+            // ZSatack to use in Z position. // exmp. using for imges righting 
             Text("BOYRACI")
                 .padding(.all)
           
