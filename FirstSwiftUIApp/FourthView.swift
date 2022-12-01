@@ -9,7 +9,7 @@ import SwiftUI
 
 struct FourthView: View {
     
-    @State var myName = "Serkan" // to use variable another place
+    @State var myName = "Serkan" // to use for variable another place
     
     var body: some View {
         VStack {
